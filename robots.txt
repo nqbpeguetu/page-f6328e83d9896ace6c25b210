@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://m.er8y.cn/sitemap.xml
